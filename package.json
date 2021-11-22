@@ -1,0 +1,26 @@
+{
+  "name": "11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "why": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "ejs": "^3.1.6",
+    "open": "^8.2.1"
+  },
+  "devDependencies": {
+    "download-git-repo": "^3.0.2"
+  }
+}
